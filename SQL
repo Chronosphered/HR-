@@ -1,0 +1,1 @@
+INSERT INTO `cela` (`emp_id`, `fname`, `lname`, `title`, `age`, `salary`, `datetime_created`) VALUES (NULL, 'John', 'Weber', 'Mr.', '28', '19000', '2019-02-27 15:43:03'), (NULL, 'Rico', 'Neri', 'N.', '69', '10', '2019-02-27 15:47:51'), (NULL, 'Mary', 'Velasco', 'Mrs.', '48', '19000', '2019-02-27 16:03:00')
