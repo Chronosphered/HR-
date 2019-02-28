@@ -1,0 +1,14 @@
+Rodriguez
+
+Update statement
+1) UPDATE `tbl_employees` SET `lname` = 'Williams' WHERE `id_emp` = '2';
+2) UPDATE `tbl_employees` SET `age` = '40' WHERE `fname` = 'Dirk';
+3) UPDATE `tbl_employees SET `title` = 'Admin Assistant' WHERE `title` = 'Secretary';
+4) UPDATE `tbl_employees` SET `salary` = salary+3500 WHERE salary <=30000;
+5) UPDATE `tbl_employees` SET `salary` = salary+4500 WHERE salary <=33500;
+6) UPDATE `tbl_employees` SET `title` = 'Programmer III' WHERE `title` = 'Programmer II';
+7) UPDATE `tbl_employees` SET `title` = 'Programmer II' WHERE `title` = 'Programmer';
+
+Delete statement
+1) DELETE FROM `bella` WHERE `id_emp` = '2';
+2) DELETE FROM `bella` WHERE `salary` <= 70000;
